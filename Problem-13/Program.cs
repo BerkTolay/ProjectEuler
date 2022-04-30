@@ -132,8 +132,7 @@ namespace Problem_13
                 sum = carry;
                 for (int j = 0; j < convertted.Count - 1; j++)
                 {
-                    ulong b = Convert.ToUInt64(((convertted[j]).ToCharArray())[i].ToString());
-                    sum += Convert.ToUInt64(((convertted[j]).ToCharArray())[i].ToString());
+                     sum += Convert.ToUInt64(((convertted[j]).ToCharArray())[i].ToString());
                 }
                 carry = sum / 10;
             }
