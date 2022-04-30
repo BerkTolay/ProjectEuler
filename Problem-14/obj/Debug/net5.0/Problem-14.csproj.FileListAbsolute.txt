@@ -1,0 +1,16 @@
+C:\Users\Berkt\desktop\projecteuler\problem-14\bin\Debug\net5.0\Problem-14.exe
+C:\Users\Berkt\desktop\projecteuler\problem-14\bin\Debug\net5.0\Problem-14.deps.json
+C:\Users\Berkt\desktop\projecteuler\problem-14\bin\Debug\net5.0\Problem-14.runtimeconfig.json
+C:\Users\Berkt\desktop\projecteuler\problem-14\bin\Debug\net5.0\Problem-14.runtimeconfig.dev.json
+C:\Users\Berkt\desktop\projecteuler\problem-14\bin\Debug\net5.0\Problem-14.dll
+C:\Users\Berkt\desktop\projecteuler\problem-14\bin\Debug\net5.0\ref\Problem-14.dll
+C:\Users\Berkt\desktop\projecteuler\problem-14\bin\Debug\net5.0\Problem-14.pdb
+C:\Users\Berkt\desktop\projecteuler\problem-14\obj\Debug\net5.0\Problem-14.csproj.AssemblyReference.cache
+C:\Users\Berkt\desktop\projecteuler\problem-14\obj\Debug\net5.0\Problem-14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkt\desktop\projecteuler\problem-14\obj\Debug\net5.0\Problem-14.AssemblyInfoInputs.cache
+C:\Users\Berkt\desktop\projecteuler\problem-14\obj\Debug\net5.0\Problem-14.AssemblyInfo.cs
+C:\Users\Berkt\desktop\projecteuler\problem-14\obj\Debug\net5.0\Problem-14.csproj.CoreCompileInputs.cache
+C:\Users\Berkt\desktop\projecteuler\problem-14\obj\Debug\net5.0\Problem-14.dll
+C:\Users\Berkt\desktop\projecteuler\problem-14\obj\Debug\net5.0\ref\Problem-14.dll
+C:\Users\Berkt\desktop\projecteuler\problem-14\obj\Debug\net5.0\Problem-14.pdb
+C:\Users\Berkt\desktop\projecteuler\problem-14\obj\Debug\net5.0\Problem-14.genruntimeconfig.cache
